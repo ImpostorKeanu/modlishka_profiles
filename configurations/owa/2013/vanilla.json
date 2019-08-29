@@ -12,7 +12,6 @@
 "dynamicMode":false,
 "forceHTTPS": false,
 "forceHTTP": false,
-"encodeQueryParams": false,
 "controlURL": "",
 "debug": true,
 "logPostOnly": false,
