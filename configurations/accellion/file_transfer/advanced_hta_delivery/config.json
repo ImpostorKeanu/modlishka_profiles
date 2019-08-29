@@ -1,0 +1,26 @@
+{
+"proxyDomain": "yourapexdomain.com",
+"credParams": "dXNlcj0oLispJnA=,cGFzc3dvcmQ9KC4rKSZmYw==",
+"target": "originapexdomain.com",
+"terminateTriggers": "subdomain.originapexdomain.com/courier/web/1000@/wmLoginexec.html?trigger=true",
+"terminateRedirectUrl": "https://www.somedomain.com/for/redirection",
+"controlURL": "RANDOMIZEME",
+"controlCreds": "UPDATE ME ---> username:password",
+"trackingCookie": "comid",
+"trackingParam": "comtid",
+"dynamicMode":false,
+"forceHTTPS": false,
+"forceHTTP": false,
+"encodeQueryParams": false,
+"debug": true,
+"logPostOnly": false,
+"disableSecurity": false,
+"log": "accellion_requests.log",
+"plugins": "all",
+"tls":true,
+"rules":"PC9ib2R5Pg==:<replacement base64 value here>",
+"cert": "base64 encoded pem cert here",
+"certKey":"base64 encoded pem key here",
+"certPool":"base64 encoded cert pem chain here"
+}
+
